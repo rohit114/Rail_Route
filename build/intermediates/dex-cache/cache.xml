@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_70921bb0d4353c21673992362364ed262a07f46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b6b3945685931fbccba8ab63f494bb926e65c2e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_fad4126e82afb7a52b7f78af225ddc968a91af4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ca3aa37c77b93bfbe3062b00c03458af26820eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_78d6f9295ab02d847662ecbd809331b910bfd4cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_5b1062a36d6e83d0a82ef274142a16dc78bcb274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_c6ee23f4ebf7350708d34b5a386ceb035cf88185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_21017a4dccac8a5b544f06f74553fbc6d9c5c2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c0e012c250038551cfefa2630d97d1c0fef4ddf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_98dc3a76279b0e392b1c2285d7690c736408fe97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_11f50d979c7ab1412e69e215092c5b74a7a2a9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\MyDocuments\Project\RailRoute\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_9bd69c876e81ead0698d513942566a9d302cd458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programe Files\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\MyDocuments\Project\RailRoute\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0ce66e50201a50f6f76c6b2d854681ea9d6b0f1e.jar" />
+    </item>
+
+</items>
