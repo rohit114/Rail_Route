@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`username`, `password`) VALUES
-('admin', '785eed96e9d91db5c1ad3e14ad6d57ad');
+('admin', '785ead6d57ad');
 
 -- --------------------------------------------------------
 
